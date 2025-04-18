@@ -61,6 +61,7 @@ This project presents a synthetic dataset of online orders from Bangalore, India
 
 - This is **personal data**, randomly generated for learning, portfolio, and demonstration purposes.
 - Inspired by Blinkit-style last-minute ordering apps.
+- You can consider my dataset to use in any dashboard creation purpose like Tableau/ Power BI
 
 ---
 
